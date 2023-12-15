@@ -1,0 +1,20 @@
+// Hola 3017
+
+//string
+var nombre = 'Harry'
+var apellido = "Potter"
+var nombrecompleto = nombre + " " + apellido
+
+// number 
+
+var dni = 40333200
+var numerolargo = 2222222222222
+
+// boolean
+
+var estaAprobado = true
+var estaDesaprobado = false
+
+var direccion = undefined //implicitamente javascript le asigna undefined
+
+console.log(nombrecompleto);
